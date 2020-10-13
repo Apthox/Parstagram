@@ -24,3 +24,5 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://s8.gifyu.com/images/ezgif.com-video-to-gif-1accbab091435031e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+https://s8.gifyu.com/images/ezgif.com-video-to-gif-1accbab091435031e.gif
