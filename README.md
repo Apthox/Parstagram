@@ -23,6 +23,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://s8.gifyu.com/images/ezgif.com-gif-makere116415148ab3362.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://s8.gifyu.com/images/ezgif.com-gif-makere116415148ab3362.gif
 
 # Parstagram - Part I
 
